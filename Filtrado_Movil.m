@@ -1,6 +1,6 @@
 function Filtrado_Movil
     % Codigo para filtrar por promedioado Movil; Realizado por Bernal Sanchez J. Alexander Bernal
-    % El archivo ECG está en mi repositorio de GitHub: 
+    % El archivo ECG está en mi repositorio de GitHub: https://github.com/EcoKnight/Filtros-Digitales/blob/main/ecg.mat
     clc; close;
 
     % Cargar los datos del archivo ecg.mat
